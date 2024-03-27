@@ -10,9 +10,8 @@
 }
 
 
-
 body {
-    background-color: #BFB1A4;
+    background-color: #D8D1CB;;
     font-family: Heebo, sans-serif;
     text-align: center;
     color: #2E2B26;
@@ -99,14 +98,14 @@ a:active {
     vertical-align: middle;
     align-items: center;
     padding: 5%*/
-    background-color: #C5AEA3;
+    background-color: #BFB1A4;
     display: flex;
   }
 
 
 .card-item {
     border-radius: 2vh;
-    background-color: #CEC4C5;
+    background-color: #D8D1CB;
     font-size: small;
     padding: 5%;
     margin: 5% 0% 10% 0%;
